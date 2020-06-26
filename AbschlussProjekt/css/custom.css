@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.bg-color{
+    background-color: #c0bcbcc0;
+    position: relative;
+    z-index: 1;
+}
+
+.bg {
+    background-image: url("../img/grey_wall_bg.jpg");
+    background-attachment: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    position: relative;
+}
+
+.header-box {
+padding: 2rem;
+padding-top: 5rem;
+}
+
+.txt-fat {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.mrgn-top {
+    margin-top: 12px;
+}
+
+.hw {
+    font-family: 'Mansalva', cursive;
+}
+
+.txt {
+    font-family: 'Roboto', sans-serif;
+}
+
+.txt-cnt {
+    text-align: center;
+}
+
+.txtfree {
+    margin:auto;
+
+}
+
+.fucking-alignment {
+    align-content: center;
+    max-height: 65%;
+    max-width: 70vw;
+}
+
+.white {
+    color: gainsboro;
+}
+.blue {
+    color: rgb(52, 52, 223);
+}
+/* 
+#carouselExampleIndicators {
+    width: 100vw;
+} */
